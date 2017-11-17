@@ -1,3 +1,4 @@
+#!/usr/bin/env python2.7
 # -*- coding: utf-8 -*-
 import os, sys, json
 path = os.path.join(os.path.dirname(__file__), '../lib/')
