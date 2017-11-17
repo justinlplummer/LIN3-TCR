@@ -1,3 +1,4 @@
+#!/usr/bin/env python2.7
 import os, sys, time
 path = os.path.join(os.path.dirname(__file__), '../lib/')
 sys.path.insert(0, path)
